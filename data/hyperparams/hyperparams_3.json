@@ -1,0 +1,24 @@
+{
+    "hyperparams": {
+        "C": 1.0,
+        "class_weight": null,
+        "dual": false,
+        "fit_intercept": true,
+        "l1_ratio": 0.0,
+        "max_iter": 100,
+        "multi_class": "auto",
+        "penalty": "l1",
+        "solver": "liblinear",
+        "tol": 0.0001,
+        "warm_start": true
+    },
+    "train_accuracy": 0.9041894353369763,
+    "test_accuracy": 0.8989800874210782,
+    "selected_features": [
+        "duration",
+        "cons.price.idx_n",
+        "cons.conf.idx_n",
+        "euribor3m_n",
+        "nr.employed_n"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "hyperparams": {
+        "C": 0.03162277660168379,
+        "class_weight": null,
+        "dual": false,
+        "fit_intercept": true,
+        "l1_ratio": 0.0,
+        "max_iter": 100,
+        "multi_class": "auto",
+        "penalty": "l1",
+        "solver": "saga",
+        "tol": 0.0001,
+        "warm_start": true
+    },
+    "train_accuracy": 0.9120825743776564,
+    "test_accuracy": 0.9043224866440019
+}
